@@ -49,6 +49,12 @@ Főként **JavaScript / TypeScript alapú modern web stackkel** dolgozom.
 - Git
 - GitHub
 
+## ☁️ Deployment & Cloud Services
+
+- Vercel (Frontend hosting)
+- Railway (Backend hosting / infrastruktúra)
+- Cloudinary (Média tárolás és image CDN)
+
 # 🎯 Célom
 
 Junior **Fullstack Developer** pozíció megszerzése, ahol tovább fejlődhetek modern web technológiákkal.
