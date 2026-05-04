@@ -38,6 +38,7 @@ Főként **JavaScript / TypeScript alapú modern web stackkel** dolgozom.
 
 - MongoDB (Mongoose)
 - MySQL (Prisma)
+- PostgresSQL (Prisma)
 
 ## 🧪 Tesztelés
 
@@ -53,6 +54,7 @@ Főként **JavaScript / TypeScript alapú modern web stackkel** dolgozom.
 
 - Vercel (Frontend hosting)
 - Railway (Backend hosting / infrastruktúra)
+- Render (Backend hosting / infrastruktúra)
 - Cloudinary (Média tárolás és image CDN)
 
 # 🎯 Célom
