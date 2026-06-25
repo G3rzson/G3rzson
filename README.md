@@ -24,6 +24,7 @@ Főként **JavaScript / TypeScript alapú modern web stackkel** dolgozom.
 - Tailwind CSS
 - Bootstrap
 - shadcn/ui
+- Motion / Framer Motion
 
 ## ⚡ Fullstack Framework
 
